@@ -122,4 +122,19 @@ AI 인식 결과를 사용자가 확인·수정할 수 있도록 구성해,
 
 ## 📷 서비스 화면
 
-<!-- 이미지 파일을 업로드한 뒤 여기에 추가해 주세요. -->
+<p align="center">
+  <img width="250" alt="1" src="https://github.com/user-attachments/assets/da199903-d34c-4892-a241-2ccc00f12ea2" />
+  <img width="250" alt="2" src="https://github.com/user-attachments/assets/a484e814-f899-445e-8f61-7d38a76bd35e" />
+  <img width="250" alt="3" src="https://github.com/user-attachments/assets/3251c490-0460-45ac-939a-c61632b069f2" />
+</p>
+
+<p align="center">
+  <img width="250" alt="4" src="https://github.com/user-attachments/assets/3929abbd-6a3f-448c-9651-6cf87ee04599" />
+  <img width="250" alt="5" src="https://github.com/user-attachments/assets/e92c02e1-bfb8-46f6-9420-899556c4f849" />
+  <img width="250" alt="6" src="https://github.com/user-attachments/assets/543217a2-9170-49a6-9c09-9bc0b936ecc0" />
+</p>
+
+<p align="center">
+  <img width="250" alt="7" src="https://github.com/user-attachments/assets/27824909-168c-4261-8a81-0a7dcbd98ddb" />
+</p>
+
